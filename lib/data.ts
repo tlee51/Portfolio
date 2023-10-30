@@ -2,8 +2,8 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import dalleIMG from "@/public/dalle.png";
-import carphotoIMG from "@/public/carphoto.png";
+import dalleIMG from "@/public/dalles.png";
+import carphotoIMG from "@/public/cars.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
