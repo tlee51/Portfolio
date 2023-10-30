@@ -21,11 +21,11 @@ export default function About() {
         <p className='mb-3'>
             I am a student at the University of Rochester in New York. I am currently pursuing a BS in 
             Computer Science. As a passionate computer science student, I embody an insatiable ambition 
-            to push the boundaries of what's possible in the world of programming.
-            {/* My favorite part of programming is the problem-solving aspect: whether it's in learning a new web development 
+            to push the boundaries of what is possible in the world of programming.
+            My favorite part of programming is the problem-solving aspect: whether it is in learning a new web development 
             stack or solving complex algorithmic problems, I love the process of dissecting problems into components and 
             engineering elegant solutions. 
-            I look forward to every chance to contribute my skills and knowledge to the ever-evolving tech landscape. */}
+            I look forward to every chance to contribute my skills and knowledge to the ever-evolving tech landscape.
         </p>
         <p>
 
