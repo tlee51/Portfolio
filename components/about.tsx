@@ -20,8 +20,8 @@ export default function About() {
         <SectionHeading>About me</SectionHeading>
         <p className='mb-3'>
             I am a student at the University of Rochester in New York. I am currently pursuing a BS in 
-            Computer Science. As a passionate computer science student, I embody an insatiable ambition 
-            to push the boundaries of what is possible in the world of programming.
+            Computer Science. As a passionate computer science student, I have an ambition 
+            to consistently grow and expand my knowledge in the world of programming.
             My favorite part of programming is the problem-solving aspect: whether it is in learning a new web development 
             stack or solving complex algorithmic problems, I love the process of dissecting problems into components and 
             engineering elegant solutions. 
