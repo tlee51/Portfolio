@@ -19,13 +19,16 @@ export default function About() {
     >
         <SectionHeading>About me</SectionHeading>
         <p className='mb-3'>
-            I am a student at the University of Rochester in New York. I am currently pursuing a BS in 
+            I am a student at the University of Rochester in New York, currently pursuing a BS in 
             Computer Science. As a passionate computer science student, I have an ambition 
             to consistently grow and expand my knowledge in the world of programming.
+            
             My favorite part of programming is the problem-solving aspect: whether it is in learning a new web development 
             stack or solving complex algorithmic problems, I love the process of dissecting problems into components and 
             engineering elegant solutions. 
             I look forward to every chance to contribute my skills and knowledge to the ever-evolving tech landscape.
+
+            In my free time, I enjoy playing soccer, listening to music, and editing videos.
         </p>
         <p>
 
